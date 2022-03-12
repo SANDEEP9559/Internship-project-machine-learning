@@ -23,3 +23,8 @@ Click <a href="https://drive.google.com/file/d/1Dv-HF10AUUA03AO_cQvar462eXawk0iQ
 * 'duration' : The duration of the video (in min. and seconds)
 * 'category' : Category niche of each of the video
 
+
+# Certificate of Internship
+
+[internship studio_page-0001](https://user-images.githubusercontent.com/75738861/158002078-79f67e46-97d5-4d49-932d-6be636ad03ec.jpg
+
