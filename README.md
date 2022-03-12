@@ -23,6 +23,9 @@ Click <a href="https://drive.google.com/file/d/1Dv-HF10AUUA03AO_cQvar462eXawk0iQ
 * 'duration' : The duration of the video (in min. and seconds)
 * 'category' : Category niche of each of the video
 
+# Certificate of Training
+
+![Sandeep Kumar (1)_page-0001](https://user-images.githubusercontent.com/75738861/158006956-07330875-ae6e-452c-8824-5f11117f0e43.jpg)
 
 # Certificate of Internship
 
